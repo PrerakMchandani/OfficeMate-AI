@@ -1,0 +1,7 @@
+{
+  "name": "OfficeMate AI",
+  "description": "An enterprise-grade AI-powered internal operations platform for managing employee requests, IT support, and automated finance reimbursements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
